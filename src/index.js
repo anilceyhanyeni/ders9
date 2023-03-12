@@ -1,11 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import "./index.css"
+import Section from "./Section"
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <section>
-    <p>App 1</p>
-  </section>    
+  <main>
+
+    <Section />
+
+  </main>
 );
 

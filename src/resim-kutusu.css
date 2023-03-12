@@ -1,0 +1,6 @@
+div.resim-kutusu {
+    border: 1px solid white;
+    background-image: linear-gradient(rgb(153, 172, 151), rgb(71, 180, 89));
+
+    padding: 1rem;
+}
